@@ -16,15 +16,15 @@ function App() {
       firstName = {'John'} 
       lastName = {'Smith'} 
       age = {88} 
-      hair = {'Brown'}
-      ></Person>
+      hair = {'Brown'}>
+      </Person>
 
       <Person 
       firstName = {'Millard'} 
       lastName = {'Fillmore'} 
       age = {50} 
-      hair = {'Brown'}
-      ></Person>
+      hair = {'Brown'}>
+      </Person>
 
       <Person 
       firstName = {'Maria'} 
